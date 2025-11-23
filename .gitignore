@@ -1,0 +1,12 @@
+# Ignore OSWorld heavy stuff
+*.zip
+*.tar
+*.tar.gz
+*.img
+*.iso
+logs/
+__pycache__/
+osworld-vm/
+venv/
+env/
+.cache/
